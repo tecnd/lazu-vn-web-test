@@ -1,11 +1,14 @@
 # lazu-vn-web-test
 
-Web version of Lazulight: By Your Side.
+Web version of Lazulight: By Your Side. Hosted via GitHub Pages at <https://tecnd.github.io/lazu-vn-web-test/>.
 
 ## Notes:
 
 - It's playable, but noticably choppy.
   - The history menu is VERY laggy, needs to be looked into.
+- Yes, you can technically play it on your phone.
+  - Some menus and assets are missing.
+  - It runs... better? Somehow?
 - Eats like, 2 GB of RAM. Because why not.
 - Requires an experimental version of Ren'Py (prerelease 7.5.0) to work on Chrome and Safari.
   - Safari may encounter additional issues.
